@@ -6,16 +6,13 @@
 💬 Ask me about HTML and CSS.
 
 - ## :gear: I'm good at:
- <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="70px" width="70px"> 
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="80px" width="80px"> 
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" height="75px" width="80px"> 
-<img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" width="75"  />
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" alt="cplusplus" width="55" height="55"/></a> <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="cplusplus" width="55" height="55"/></a> <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="cplusplus" width="55" height="55"/></a> <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="cplusplus" width="55" height="55"/></a> <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="55" height="55"/></a>
+<a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="55"/></a> <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="cplusplus" width="55" height="50"/></a>
+<a><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="cplusplus" width="55" height="55"/></a>
 
 - ## :rocket: Reach me at:
-1. [__*E-Mail*__](mailto:danishsharma13255@gmail.com)
-2. [__*Instagram*__](https://www.instagram.com/Danish_1004/)
-## 🌠: Check my Website:
-[__*WEBSITE!*__](https://danish1004.github.io/)
+1. [__*E-Mail*__](mailto:agupta_be20@thapar.edu)
+2. [__*Instagram*__](https://www.instagram.com/aryamangupta002/)
 
 
 <!--
