@@ -1,6 +1,11 @@
-### Hi there 👋
-** 🌱 I’m currently learning Frontend Web Development**
+### Hola, I'm Aryaman Gupta👋
+🌱 I’m currently learning Web Development.
 
+🤔 I’m looking for help with JavaScript.
+
+💬 Ask me about HTML and CSS.
+
+<img src="https://img.shields.io/badge/-ReactJS">
 
 <!--
 **ggaryaman12/ggaryaman12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
