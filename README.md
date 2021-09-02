@@ -2,7 +2,7 @@
  ### <div align=center>  Tech-Enthusiast, Learner and a Badmintonist.
 🌱 I’m currently learning Web Development.
 
-🤔 I’m looking for help with JavaScript.
+🤔 I’m looking for help with Linux.
 
 💬 Ask me about HTML and CSS.
 
