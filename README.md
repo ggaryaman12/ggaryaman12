@@ -1,4 +1,5 @@
 ### Hi there 👋
+** 🌱 I’m currently learning Frontend Web Development**
 
 <!--
 **ggaryaman12/ggaryaman12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
