@@ -1,4 +1,5 @@
 ### Hola, I'm Aryaman Gupta👋
+ ### <div align=center>  Tech-Enthusiast, Learner and a Badmintonist.
 🌱 I’m currently learning Web Development.
 
 🤔 I’m looking for help with JavaScript.
