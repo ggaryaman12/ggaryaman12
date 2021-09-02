@@ -5,7 +5,7 @@
 
 💬 Ask me about HTML and CSS.
 
-https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30">
 
 
 <!--
